@@ -42,7 +42,7 @@ substitutions:
   _PLATFORM: managed
   _SERVICE_NAME: cot5930-project-3
   _TRIGGER_ID: cb57c4cf-cd71-47cb-8e74-0292f5514e0f
-  REPO_NAME: cot5930-project-3
+  REPO_NAME: cot5930-course-project
   _DEPLOY_REGION: us-east1
   _AR_HOSTNAME: us-east1-docker.pkg.dev
 tags:
